@@ -1,5 +1,5 @@
 <?php
 
-$var = 'test5';
+$var = 'test6';
 
 echo $var;
